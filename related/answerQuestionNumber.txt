@@ -1,0 +1,10 @@
+1 Thirteen, see Catalog
+2 Eleven, see Computer Science department website
+3 R-322
+4 See Counseling website
+5 M-Th, 8AM - 7PM F, 8AM - 4:30PM
+6 See Support services
+7 Yes, see Math Success Center
+8 The college does not offer an AS in Computer Science, they offer an AS in Mathematics instead
+9 See current catalog
+10 Talk with a counselor

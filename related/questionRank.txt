@@ -1,0 +1,10 @@
+0 How many classes does the Computer Science department offer
+0 How many instructors are in the Computer Science department
+0 Where is the Computer Science office
+0 What is the phone number for the Computer Science department
+0 What are the Computer Science main office hours of operation
+0 Who can I talk to about enrolling in Computer Science classes
+0 Does the Computer Science department offer tutoring services
+0 What are the career prospects for a Computer Science major
+0 What degrees does the Computer Science department offer
+0 What are the requirements to take Computer Science courses
